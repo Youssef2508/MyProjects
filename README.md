@@ -1,2 +1,2 @@
 # StopWatch_Project
-Stopwatch using atmega32 microcontroller
+Stopwatch using ATmega32 microcontroller
